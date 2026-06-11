@@ -7,4 +7,4 @@ Technologies: HTML, CSS, JavaScript
 Developed a student portal with login, dashboard, marks, and attendance management features.
 
 Live Demo:
-https://mellow-shortbread-486b25.netlify.app/
+magnificent-pony-218d3b.netlify.app
