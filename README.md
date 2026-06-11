@@ -7,4 +7,4 @@ Technologies: HTML, CSS, JavaScript
 Developed a student portal with login, dashboard, marks, and attendance management features.
 
 Live Demo:
-magnificent-pony-218d3b.netlify.app
+https://magnificent-pony-218d3b.netlify.app/
